@@ -3,6 +3,11 @@
 Lösningsförslag och rättningsmall för Inlämningsuppgift 3 i SEE060 Jorden som system.
 
 
+## Allmänt om rättningen
+
+- Dra bara av 1 poäng för upprepade fel.
+
+
 ## Fråga 1
 
 ### 1 a)
