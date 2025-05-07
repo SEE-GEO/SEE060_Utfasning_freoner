@@ -49,7 +49,7 @@ Eftersom utsläppstakten är större än nedbrytningstakten (p.g.a. den långa u
 - Säger att det har med den långa uppehållstiden att göra, och att de gamla utsläppen fortfarande finns kvar.
   - Ge rätt och kommentar 4.
 
-#**Vanliga kommentarer:**
+**Vanliga kommentarer:**
 
 1. Stämmer, men det förklarar inte varför jämviktsmassan är högre än massan år 1989 när utsläppen har minskat.
 2. Du är inne på rätt spår. Notera dock att uppehållstiden anger ett medelvärde på livslängden - en del av freonerna bryts ner innan 100 år. Det handlar snarare om skillnaden mellan utsläppstakt och nedbrytningstakt. Om utsläppstakten är högre kommer massan fortsätta att öka.
