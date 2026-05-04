@@ -6,7 +6,6 @@ Det här är repot innehåller kursmaterial tillhörande inlämningsuppgiften om
 
 Du behöver ha följande Python-paket installerade för att kunna följa instruktionerna:
 - numpy
-- scipy
 - matplotlib
 - juypterlab
 - jupyterlab-tour
